@@ -1,2 +1,2 @@
-# ia
-Algoritmos de Inteligencia Artificial con Python
+# Artificial Intelligence
+Artificial Intelligence algorithms in Python
