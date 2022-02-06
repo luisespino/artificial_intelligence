@@ -1,4 +1,5 @@
 # Luis Espino 2017
+
 import time
 
 def reflex_agent(location, state):
