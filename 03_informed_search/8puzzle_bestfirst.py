@@ -61,5 +61,5 @@ def bestfirst (end, n):
         print (unvisited)
     print ("NO-SOLUTION")
 
-# bestfirst (end = 123456780, mix_mov = 10)
+# bestfirst (end = 123456780, mix_mov = 20)
 bestfirst("123456780", 20)
